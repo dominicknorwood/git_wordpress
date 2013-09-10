@@ -1,0 +1,1 @@
+Add GIT ingore file for this wordpress site
